@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/stateWiseSummary/static/css/main.afc94fd8.css",
+    "main.js": "/stateWiseSummary/static/js/main.37630af9.js",
+    "static/js/592.80e2ab5a.chunk.js": "/stateWiseSummary/static/js/592.80e2ab5a.chunk.js",
+    "index.html": "/stateWiseSummary/index.html",
+    "main.afc94fd8.css.map": "/stateWiseSummary/static/css/main.afc94fd8.css.map",
+    "main.37630af9.js.map": "/stateWiseSummary/static/js/main.37630af9.js.map",
+    "592.80e2ab5a.chunk.js.map": "/stateWiseSummary/static/js/592.80e2ab5a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.afc94fd8.css",
+    "static/js/main.37630af9.js"
+  ]
+}
